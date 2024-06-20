@@ -10,6 +10,8 @@ import '@layouts/styles/index.scss'
 const app = createApp(App)
 
 
+
+
 // Register plugins
 registerPlugins(app)
 
